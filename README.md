@@ -4,6 +4,8 @@
 
 Thinkphp 反序列化 POC 调试记录  
 
+测试环境   thinkphp 5.0.24  php7.1.9  Windows  Apache
+
 
 创建文件（文件名可本地计算）
 ![img](./img/1.png?raw=true)
